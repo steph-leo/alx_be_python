@@ -1,4 +1,4 @@
-width = 5
 length = 10
+width = 5
 area = width * length
-print ("The area of rectangle is ", area)
+print ("The area of rectangle is: ", area)
