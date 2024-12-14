@@ -4,5 +4,5 @@ addition = number1 + number2
 substruction = number1 - number2
 multiplication = number1 * number2
 print(addition)
-print(substruction)
+print(substraction)
 print(multiplication)
